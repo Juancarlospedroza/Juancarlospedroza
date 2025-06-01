@@ -2,8 +2,7 @@
 
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/cc94f490-de6f-4c35-9109-a61c2165186f)
 
-![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuancarlos-pedroza-dataanalyst%2F)
-
+[![test](https://img.shields.io/badge/Linkedin-blue?style=plastic)](https://www.linkedin.com/in/juancarlos-pedroza-dataanalyst/)
 
 
 
