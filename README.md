@@ -2,7 +2,13 @@
 
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/cc94f490-de6f-4c35-9109-a61c2165186f)
 
-![Static Badge](https://img.shields.io/badge/Linkedin)
+https://badgen.net/badge/:LINKEDIN/:status/:color?=[blue]?icon=[chrome]
+
+
+
+
+
+
 
 
 <!--
