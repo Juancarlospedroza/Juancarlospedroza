@@ -1,4 +1,4 @@
-## Hello World I'm Juan Carlos! 👋
+## Hello World! I'm Juan Carlos 👋
 
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/cc94f490-de6f-4c35-9109-a61c2165186f)
 
