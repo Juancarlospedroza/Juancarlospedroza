@@ -7,7 +7,13 @@
 
 
 # Skills
-![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Tableau-orange)
+![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/Pandas-purple) ![Static Badge](https://img.shields.io/badge/Scikitlearn-orange) ![Static Badge](https://img.shields.io/badge/NumPy-red) ![Static Badge](https://img.shields.io/badge/Matplotlib-Blue) ![Static Badge](https://img.shields.io/badge/PlotlyExpress-violet)
+
+
+
+
+
+![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Tableau-orange) 
 
 
 
