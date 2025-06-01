@@ -1,8 +1,14 @@
 ## Hello World! I'm Juan Carlos 👋
 
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/user-attachments/assets/cc94f490-de6f-4c35-9109-a61c2165186f)
-![Static Badge](https://img.shields.io/badge/linkedin-blue)
 
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuancarlos-pedroza-dataanalyst%2F)
+
+
+
+
+# Skills
+![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Tableau-orange)
 
 
 
