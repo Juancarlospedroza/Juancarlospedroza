@@ -10,9 +10,6 @@
 ![Static Badge](https://img.shields.io/badge/Python-yellow?logo=python) ![Static Badge](https://img.shields.io/badge/SQL-blue) ![Static Badge](https://img.shields.io/badge/Tableau-orange)
 
 
-
-
-
 <!--
 **Juancarlospedroza/Juancarlospedroza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
